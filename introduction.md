@@ -4,7 +4,7 @@
 
 ## Problem description
 
-SRE specialists need to use and integrate with many tools to get things done. Modern tools are complex and configuring them correctly is not a trivial job. What if you integrate multiple tools with each of them having inconsistencies in setup? Number of errors can increase exponentially.
+SRE specialists need to integrate and use many tools to get things done. Modern tools are complex and configuring them correctly is not a trivial job. What if you integrate multiple tools with each of them having inconsistencies in setup? Number of errors can increase exponentially.
 
 How can this be avoided? There are some options 💡:
 
