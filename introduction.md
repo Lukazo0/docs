@@ -12,6 +12,10 @@ How can this be avoided? There are some options 💡:
 
 2. Hire an experienced engineer to help you with settings and future maintenance. But again, what about the cost? 💲
 
-3. Use SREnity to scan your DevOps/SRE toolchain in `read-only` mode to get notifications about missing configurations and get recommendations how to fix them. Sounds quick and affordable, right? 😊
+3. Use SREnity to scan your DevOps/SRE toolchain to get notifications about missing configurations and get recommendations how to fix them. Sounds quick and effective, right? 😊
 
 Awesome!
+
+## How SREnity can help
+
+SREnity is a simple SaaS tool that connects with other SaaS products, sends probes to them and gets intelligence data about their health.
